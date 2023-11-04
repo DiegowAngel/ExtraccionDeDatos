@@ -1,0 +1,43 @@
+region,code,name,continent,surface_area,independence_year,population,life_expectancy,gnp,gnp_old,local_name,government_form,head_of_state,capital,code2
+Antarctica,ATA,Antarctica,Antarctica,13120000.0,,0,,0.0,,,Co-administrated,,,AQ
+Antarctica,ATF,French Southern territories,Antarctica,7780.0,,0,,0.0,,Terres australes francaises,Nonmetropolitan Territory of France,Jacques Chirac,,TF
+Southern and Central Asia,BTN,Bhutan,Asia,47000.0,1910.0,2124000,52.4,372.0,383.0,Druk-Yul,Monarchy,Jigme Singye Wangchuk,192.0,BT
+Antarctica,BVT,Bouvet Island,Antarctica,59.0,,0,,0.0,,Bouvetoya,Dependent Territory of Norway,Harald V,,BV
+Australia and New Zealand,CCK,Cocos (Keeling) Islands,Oceania,14.0,,600,,0.0,,Cocos (Keeling) Islands,Territory of Australia,Elisabeth II,2317.0,CC
+Western Africa,CPV,Cape Verde,Africa,4033.0,1975.0,428000,68.9,435.0,420.0,Cabo Verde,Republic,Antonio Mascarenhas Monteiro,1859.0,CV
+Australia and New Zealand,CXR,Christmas Island,Oceania,135.0,,2500,,0.0,,Christmas Island,Territory of Australia,Elisabeth II,1791.0,CX
+Eastern Africa,DJI,Djibouti,Africa,23200.0,1977.0,638000,50.8,382.0,373.0,Djibouti/Jibuti,Republic,Ismail Omar Guelleh,585.0,DJ
+Eastern Africa,ERI,Eritrea,Africa,117600.0,1993.0,3850000,55.8,650.0,755.0,Ertra,Republic,Isayas Afewerki [Isaias Afwerki],652.0,ER
+Northern Africa,ESH,Western Sahara,Africa,266000.0,,293000,49.8,60.0,,As-Sahrawiya,Occupied by Marocco,Mohammed Abdel Aziz,2453.0,EH
+South America,FLK,Falkland Islands,South America,12173.0,,2000,,0.0,,Falkland Islands,Dependent Territory of the uK,Elisabeth II,763.0,FK
+Micronesia,FSM,"Micronesia, Federated States of",Oceania,702.0,1990.0,119000,68.6,212.0,,Micronesia,Federal Republic,Leo A. Falcam,2689.0,FM
+Western Africa,GMB,Gambia,Africa,11295.0,1965.0,1305000,53.2,320.0,325.0,The Gambia,Republic,Yahya Jammeh,904.0,GM
+Western Africa,GNB,Guinea-Bissau,Africa,36125.0,1974.0,1213000,49.0,293.0,272.0,Guine-Bissau,Republic,Kumba Iala,927.0,GW
+Central Africa,GNQ,Equatorial Guinea,Africa,28051.0,1968.0,453000,53.6,283.0,542.0,Guinea Ecuatorial,Republic,Teodoro Obiang Nguema Mbasogo,2972.0,GQ
+Caribbean,GRD,Grenada,North America,344.0,1974.0,94000,64.5,318.0,,Grenada,Constitutional Monarchy,Elisabeth II,916.0,GD
+North America,GRL,Greenland,North America,2166090.0,,56000,68.1,0.0,,Kalaallit Nunaat/Gronland,Part of Denmark,Margrethe II,917.0,GL
+South America,GuY,Guyana,South America,214969.0,1966.0,861000,64.0,722.0,743.0,Guyana,Republic,Bharrat Jagdeo,928.0,GY
+Antarctica,HMD,Heard Island and McDonald Islands,Antarctica,359.0,,0,,0.0,,Heard and McDonald Islands,Territory of Australia,Elisabeth II,,HM
+Eastern Africa,IOT,British Indian Ocean Territory,Africa,78.0,,0,,0.0,,British Indian Ocean Territory,Dependent Territory of the uK,Elisabeth II,,IO
+Micronesia,KIR,Kiribati,Oceania,726.0,1979.0,83000,59.8,40.7,,Kiribati,Republic,Teburoro Tito,2256.0,KI
+Southern and Central Asia,MDV,Maldives,Asia,298.0,1965.0,286000,62.2,199.0,,Dhivehi Raajje/Maldives,Republic,Maumoon Abdul Gayoom,2463.0,MV
+Micronesia,MHL,Marshall Islands,Oceania,181.0,1990.0,64000,65.5,97.0,,Marshall Islands/Majol,Republic,Kessai Note,2507.0,MH
+Eastern Africa,MYT,Mayotte,Africa,373.0,,149000,59.5,0.0,,Mayotte,Territorial Collectivity of France,Jacques Chirac,2514.0,YT
+Australia and New Zealand,NFK,Norfolk Island,Oceania,36.0,,2000,,0.0,,Norfolk Island,Territory of Australia,Elisabeth II,2806.0,NF
+Polynesia,NIu,Niue,Oceania,260.0,,2000,,0.0,,Niue,Nonmetropolitan Territory of New Zealand,Elisabeth II,2805.0,Nu
+Micronesia,NRu,Nauru,Oceania,21.0,1968.0,12000,60.8,197.0,,Naoero/Nauru,Republic,Bernard Dowiyogo,2728.0,NR
+Polynesia,PCN,Pitcairn,Oceania,49.0,,50,,0.0,,Pitcairn,Dependent Territory of the uK,Elisabeth II,2912.0,PN
+Micronesia,PLW,Palau,Oceania,459.0,1994.0,19000,68.6,105.0,,Belau/Palau,Republic,Kuniwo Nakamura,2881.0,PW
+Antarctica,SGS,South Georgia and the South Sandwich Islands,Antarctica,3903.0,,0,,0.0,,South Georgia and the South Sandwich Islands,Dependent Territory of the uK,Elisabeth II,,GS
+Nordic Countries,SJM,Svalbard and Jan Mayen,Europe,62422.0,,3200,,0.0,,Svalbard og Jan Mayen,Dependent Territory of Norway,Harald V,938.0,SJ
+Western Africa,SLE,Sierra Leone,Africa,71740.0,1961.0,4854000,45.3,746.0,858.0,Sierra Leone,Republic,Ahmed Tejan Kabbah,3207.0,SL
+Central Africa,STP,Sao Tome and Principe,Africa,964.0,1975.0,147000,65.3,6.0,,Sao Tome e PrIncipe,Republic,Miguel Trovoada,3172.0,ST
+Polynesia,TKL,Tokelau,Oceania,12.0,,2000,,0.0,,Tokelau,Nonmetropolitan Territory of New Zealand,Elisabeth II,3333.0,TK
+Southeast Asia,TMP,East Timor,Asia,14874.0,,885000,46.0,0.0,,Timor Timur,Administrated by the uN,Jose Alexandre Gusmao,1522.0,TP
+Polynesia,TON,Tonga,Oceania,650.0,1970.0,99000,67.9,146.0,170.0,Tonga,Monarchy,Taufa'ahau Tupou IV,3334.0,TO
+Polynesia,TuV,Tuvalu,Oceania,26.0,1978.0,12000,66.3,6.0,,Tuvalu,Constitutional Monarchy,Elisabeth II,3424.0,TV
+Micronesia/Caribbean,uMI,united States Minor Outlying Islands,Oceania,16.0,,0,,0.0,,united States Minor Outlying Islands,Dependent Territory of the uS,George W. Bush,,uM
+Southern Europe,VAT,Holy See (Vatican City State),Europe,0.4,1929.0,1000,,9.0,,Santa Sede/Citta del Vaticano,Independent Church State,Johannes Paavali II,3538.0,VA
+Melanesia,VuT,Vanuatu,Oceania,12189.0,1980.0,190000,60.6,261.0,246.0,Vanuatu,Republic,John Bani,3537.0,Vu
+Polynesia,WLF,Wallis and Futuna,Oceania,200.0,,15000,,0.0,,Wallis-et-Futuna,Nonmetropolitan Territory of France,Jacques Chirac,3536.0,WF
+Polynesia,WSM,Samoa,Oceania,2831.0,1962.0,180000,69.2,141.0,157.0,Samoa,Parlementary Monarchy,Malietoa Tanumafili II,3169.0,WS
